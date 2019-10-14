@@ -1,4 +1,4 @@
 # tmux_setting
-mv tmux.conf .tmux.conf
+mv tmux.conf /home/username/.tmux.conf
 
 restart tmux
